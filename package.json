@@ -20,7 +20,7 @@
     "egg-ci": "^2.1.0",
     "eslint": "^8.25.0",
     "eslint-config-egg": "^12.0.0",
-    "git-contributor": "^1.0.10",
+    "git-contributor": "^2.0.0",
     "istanbul": "*",
     "koa": "^2.5.1",
     "mocha": "^3.5.3",
